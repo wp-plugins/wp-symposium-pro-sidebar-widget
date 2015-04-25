@@ -5,7 +5,7 @@ Contributors: Michael Junker
 Donate link: http://www.wnccnwebdev.com
 Tags: symposium pro, wp-symposium pro,wp symposium pro, widget, profile, profile widget
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 14.8.6
 
  The WP Symposium Pro Profile Widget is used in conjunction WP Symposium Pro Plugin without the need of text widgets.
