@@ -3,7 +3,7 @@
 Author: WNCCN Web Development
 Contributors: Michael Junker
 Donate link: http://www.wnccnwebdev.com
-Tags: symposium pro, wp-symposium pro,wp symposium pro, widget, profile, profile widget
+Tags: symposium pro, wp-symposium pro,wp symposium pro, widget, profile, profile widget,wp symposium
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 14.8.6
